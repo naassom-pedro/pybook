@@ -1,0 +1,27 @@
+PyBook versão 1.0.0
+Desenvolvido e mantido por Naassom Pedro
+Visite:
+
+SOBRE:
+    Pybook é um sistema básico totalmente desenvolvido na linguagem Python, tem como objetivo-
+    ser ágil e pratico, assim de forma simples sendo acessado através de CLI.
+
+    Este programa é livre para modificações e melhorias.
+    Este programa vem com absolutamente nenhuma garantia.
+
+VISUALIZAR CONTATOS
+    Na tela inicial basta entrar com a opção "C", será apresentado todos os contatos já criados.
+    Já na tela de contatos, pode-se alter a visualização dos contatos apenas informando um proxímo ID.
+
+CRIAR UM NOVO CONTATO
+    Na tela inicial basta entrar com a opção "N", isso o levara para a tela de cadastro de um novo usuário.
+    Já na tela de novo contato, caso queira desistir do cadastro, basta teclar [enter] até o final e escolher-
+    não salvar os dados; o sistema irá voltar para a tela inicial.
+
+EDITAR UM CONTATO EXISTENTE
+    Esta opção ainda não esta disponivel nesta versão.
+
+SAINDO DO SISTEMA
+    Na tela inicial, basta pressionar a tecla "Q", será apresentado uma confirmação de saída, pressione "Y" para sair-
+    ou pressione "N" para continuar utilizando o sistema.
+    Caso não escolha nenhuma opção e pressione [enter] o sistema continuará operando e voltará para a tela inicial.
